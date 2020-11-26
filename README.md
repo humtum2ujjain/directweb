@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+# Quarkly export project
+<p align="center">
+  <img src="http://uploads.quarkly.io/readme/cra/readme-quarkly-and-cra.png" width="480px" alt="Create-React-App project from Quarkly">
+</p>
 
-You can use the [editor on GitHub](https://github.com/humtum2ujjain/directweb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h1 align="center">Website Example</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h4 align="center">This Create-React-App project was created in <a href="https://quarkly.io/" target="_blank">Quarkly.io</a> – design tool for creating websites and web apps</h4>
 
-### Markdown
+<p align="center">
+  <a href="https://reactjs.org/">
+    <img src="https://badgen.net/badge/React/16.13.0/cyan" 
+         alt="React version" />
+  </a>
+  <a href="https://github.com/facebook/create-react-app">
+    <img src="https://badgen.net/badge/Create React App/3.4.0/blue" 
+         alt="Create React App version" />
+  </a>
+  
+  <a href="https://github.com/humtum2ujjain/directweb/pulls">
+    <img src="https://badgen.net/github/prs/humtum2ujjain/directweb" alt="Pull Request Amount">
+  </a>
+  <img src="https://badgen.net/github/last-commit/humtum2ujjain/directweb" alt="Last commit date" />
+            
+  <a href="./LICENSE">
+    <img src="https://badgen.net/badge/license/MIT/blue"
+         alt="License">
+  </a>
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<p align="center">
+<img src="http://uploads.quarkly.io/readme/cra/how-to-start-create-react-app.gif" width="460px" alt="How to start Create-React-App">
+</p>
 
-# Header 1
-## Header 2
-### Header 3
+# ✨ Install
 
-- Bulleted
-- List
+## How to start
 
-1. Numbered
-2. List
+```bash
+# Install dependencies
+$ npm i
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Start the app
+$ npm start
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# 📦 What's inside?
 
-### Jekyll Themes
+- [React](https://reactjs.org/)
+- [Create React App](https://github.com/facebook/create-react-app)
+- [Styled-components](https://styled-components.com/)
+- [React helmet](https://github.com/nfl/react-helmet)
+- [Atomize by Quarkly](https://atomize.quarkly.io/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/humtum2ujjain/directweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+# 💡 About [Quarkly](https://quarkly.io)
+<p>
+A unique tool for webmasters, designers and developers.
+<br>
+Here you can create websites and web apps quickly, conveniently and beautifully.
+</p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Documentation](https://quarkly.io/docs)
+- [Features](https://quarkly.io/features)
+- [Updates](https://quarkly.io/updates)
+- [GitHub](https://github.com/quarkly)
+- [Twitter](https://twitter.com/quarklyapp)
+- [Spectrum](https://spectrum.chat/quarkly)
+
+# 📝 License
+Licensed under the [MIT License](./LICENSE).
